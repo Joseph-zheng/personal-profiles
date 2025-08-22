@@ -5,7 +5,7 @@ lang: zh
 permalink: /zh/
 ---
 
-[English]({{ '/' | relative_url }}) · [中文]({{ '/zh/' | relative_url }})
+[English]({{ site.baseurl }}/) · [中文]({{ site.baseurl }}/zh/)
 
 # 郑
 研究人员 · 学术主页
@@ -46,4 +46,5 @@ permalink: /zh/
 - 上传 /assets/cv.pdf，更新学术/社交链接与邮箱。
 - 如果需要页眉头像，可替换 assets/profile.svg，并在 _config.yml 中增加 logo: /assets/profile.svg。
 -->
+
 
