@@ -5,10 +5,10 @@ lang: zh
 permalink: /zh/
 ---
 
-[English] ({{ '/' | relative_url }}) · [中文] ({{ '/zh/' | relative_url }})
+[English]({{ '/' | relative_url }}) · [中文]({{ '/zh/' | relative_url }})
 
 # 郑
-研究人员 · 学术主页
+研究人员
 
 [论文列表]({{ '/zh/publications/' | relative_url }}) · [简历]({{ '/assets/cv.pdf' | relative_url }}) · [GitHub](https://github.com/Joseph-zheng) · [谷歌学术](https://scholar.google.com/citations?user=REPLACE_ME) · [ORCID](https://orcid.org/0000-0000-0000-0000) · [邮箱](mailto:you@example.com)
 
@@ -46,6 +46,7 @@ permalink: /zh/
 - 上传 /assets/cv.pdf，更新学术/社交链接与邮箱。
 - 如果需要页眉头像，可替换 assets/profile.svg，并在 _config.yml 中增加 logo: /assets/profile.svg。
 -->
+
 
 
 
