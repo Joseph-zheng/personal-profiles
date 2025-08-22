@@ -2,7 +2,7 @@
 # 若将来改成用户名主页（username.github.io），把 baseurl 改成空字符串：baseurl: ""
 url: "https://joseph-zheng.github.io"
 baseurl: "/personal-profiles"  # 本仓库为项目页，需带仓库名
-remote_theme: alshedivat/al-folio@v0.4.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
@@ -15,6 +15,7 @@ lang: "en"
 logo: /assets/profile.svg
 
 repository: "Joseph-zheng/personal-profiles"  # 便于主题显示“View on GitHub”
+
 
 
 
